@@ -1,3 +1,4 @@
+http://mnemstudio.org/clustering-k-means-example-1.htm
 import math
 def dist(a,b,c):
 	s = 0
